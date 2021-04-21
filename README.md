@@ -1,4 +1,4 @@
-# Backend service for aggregation of multiple centralized echanges
+# Backend service for aggregation of multiple centralized exchanges
 
 ## Steps:
 
